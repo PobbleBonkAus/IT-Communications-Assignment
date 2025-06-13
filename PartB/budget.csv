@@ -1,0 +1,31 @@
+Task,Estimated Cost,Description
+1. Project Initiation,"$2,000","Project planning, stakeholder engagement, and team allocation"
+2. Requirements Gathering,"$3,000","Interviews, process analysis, and requirements documentation"
+3. System Design,"$6,000","System architecture, wireframes, data model, and UML diagrams"
+3.1 System Architecture Design,"$2,000",Designing the architecture and data flow
+3.2 Wireframes & UI Design,"$2,500",Frontend wireframe and user interface design
+3.3 Database & ERD Design,"$1,000",Data model and entity-relationship diagram
+3.4 UML Diagram,$500,Use case and class diagrams
+4. Development,"$20,000","Frontend, backend development, and Salesforce integration"
+4.1 Frontend Development,"$8,000",Building the user interface and web portal
+4.2 Backend Development,"$8,000","Database development, job matching algorithm"
+4.3 Salesforce Integration,"$3,000",API integration for syncing with Salesforce
+4.4 Security Implementation,"$1,000","Security features (encryption, access control)"
+5. Testing,"$5,000","Unit, integration, UAT, and security testing"
+5.1 Unit Testing,"$1,500",Component-level testing
+5.2 Integration Testing,"$1,500",Testing system integration
+5.3 User Acceptance Testing,"$1,000",Ensuring system meets user needs
+5.4 Security Testing,"$1,000",Testing system security features
+6. Deployment,"$2,500",Deployment to live environment and data migration
+6.1 Hosting Setup,$500,Setting up hosting environment
+6.2 Data Migration,"$1,000",Migrating data from old system to new system
+6.3 Final Deployment and Checks,"$1,000",Deploying the system and final checks
+7. Training and Support,"$3,000","Training, user manuals, and post-launch support"
+7.1 Training for Recruiters/Admins,"$1,500",Training sessions for users
+7.2 User Manuals and Documentation,"$1,000",Creating manuals and help docs
+7.3 Post-launch Support,$500,Initial technical support
+8. Project Closure,"$1,500",Final project review and documentation
+8.1 Final Review and Handover,"$1,000",Review and handover to system owner
+8.2 Project Sign-off,$500,Obtaining sign-off from stakeholders
+Miscellaneous,"$2,000","Unforeseen expenses, additional resources"
+Total Estimated Cost,"$45,500",Total project cost estimate
